@@ -1,0 +1,2 @@
+# summary_of_cutting_edge_technologies_of_RL
+从网上收集的一些关于强化学习的前沿技术汇总，包括主流强化学习会议的上的相关文章
